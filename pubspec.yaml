@@ -2,7 +2,7 @@ name: design_test
 description: "A new Flutter project."
 
 # Prevent accidental publishing to pub.dev.
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -10,6 +10,7 @@ environment:
   sdk: ^3.6.0
 
 dependencies:
+  flutter_svg: ^2.0.16
   flutter:
     sdk: flutter
   flutter_localizations:
